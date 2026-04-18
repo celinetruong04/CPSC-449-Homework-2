@@ -13,4 +13,5 @@
 <img width="912" height="608" alt="Postman_HUM0erc3sY" src="https://github.com/user-attachments/assets/ae660eeb-b5d9-42ac-8d71-a13288dbc412" />
 
 **DELETE request as USER -- 403 Forbidden response**
-<img width="916" height="559" alt="Postman_CQj1rLHPii" src="https://github.com/user-attachments/assets/e94deeac-7544-482d-bcd6-771331e57006" />
+<img width="904" height="575" alt="Postman_bsK97HACM4" src="https://github.com/user-attachments/assets/4cb6744f-acf0-4551-959c-086c583d9016" />
+
